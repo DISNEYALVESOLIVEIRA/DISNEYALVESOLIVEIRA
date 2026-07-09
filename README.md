@@ -23,7 +23,7 @@ Atualmente busco minha oportunidade como <strong>Desenvolvedor Front-end / Full-
 <h2>📈 Gráfico de Contribuições</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DISNEYALVESOLIVEIRA&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true&title_color=00FF00" alt="Gráfico de atividades" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DISNEYALVESOLIVEIRA&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=00ff00&title_color=00ff00&custom_title=DISNEY%20K.%20ALVES%20OLIVEIRA&border_color=00ff00" alt="Gráfico de Contribuições de Disney" />
 </p>
 
 <h2>🐍 Snake</h2>
